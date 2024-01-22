@@ -1,5 +1,5 @@
 <font style="vertical-align: inherit;">
-    <font style="vertical-align: inherit;">Hola 👋, Luisa Arboleda</font>
+    <font style="vertical-align: inherit;">Hola 👋, soy Luisa Fernanda Arboleda</font>
 </font>
 <hr>
 <font style="vertical-align: inherit;">
@@ -49,7 +49,11 @@
 </h3>
 <hr>
 <p align="left" dir="auto">
+
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/luisa-fernanda-arboleda-parra-03289069/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/luisa-fernanda-arboleda-parra-03289069/" height="30" width="40" style="max-width: 100%;"></a>
+
+
 <a href="https://instagram.com/luii_app" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luii_app" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
